@@ -1,9 +1,8 @@
 <snippet>
     <content><![CDATA[
-export class ${1:class_name} extends ${2:extends} {
+export class ${1:class_name} {
     
     constructor(${3: parameters}) {
-        super();
 
         ${4: // Content}
     }

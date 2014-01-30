@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-constructor(${1: parameters}) {
+constructor(${1:parameters}) {
     super();
 
-    ${2: // Content}
+    ${2:// Content}
 }
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

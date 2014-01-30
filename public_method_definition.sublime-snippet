@@ -7,7 +7,7 @@ public ${1:method_name}(): ${2:return_type} {
 }
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>public-method</tabTrigger>
+    <tabTrigger>public method</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.ts</scope>
 </snippet>

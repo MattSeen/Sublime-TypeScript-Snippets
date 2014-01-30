@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-${1:method_name}() : ${2:return_type}{
-    ${5:// Content}
+${1:method_name}(${2:method_name}) : ${3:return_type} {
+    ${6:// Content}
 
-    return ${4:returned_data};
+    return ${5:returned_data};
 }
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

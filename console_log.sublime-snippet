@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-console.log(${1:method_name});
+console.log(${1:console_log_message});
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>console</tabTrigger>

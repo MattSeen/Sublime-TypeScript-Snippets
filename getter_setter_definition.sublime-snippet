@@ -1,10 +1,10 @@
 <snippet>
     <content><![CDATA[
-get ${1:var_name}(): ${2:return_type} {
+get ${1:property_name}(): ${2:return_type} {
 	// return something;
 }
 
-set ${1:var_name}(models: ${2:var_type}) {
+set ${1:property_name}(models: ${2:var_type}) {
     // Content
 }
 ]]></content>

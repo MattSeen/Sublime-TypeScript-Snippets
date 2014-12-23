@@ -1,16 +1,11 @@
 <snippet>
     <content><![CDATA[
-class ${1:class_name} extends ${2:extends_class_name} {
-
-    constructor(${3:parameters}) {
-        super();
-
-        ${4:// Content}
-    }
+set ${1:property_name}(models: ${2:var_type}) {
+    // Content
 }
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>class extends default</tabTrigger>
+    <tabTrigger>setter</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.ts</scope>
 </snippet>
